@@ -6,7 +6,7 @@ public class Hola {
 	
 		System.out.println("Hola Jenkins");
 		System.out.println("Prueba de versiones");
-
+		System.out.println("Prueba de version 2");
 	}
 
 }
